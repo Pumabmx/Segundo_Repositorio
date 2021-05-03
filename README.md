@@ -6,3 +6,6 @@
 * 3. Tercero
 * 4. Cuarto
 * 5. Quinto
+
+* 6. Sexto
+7. Septimo *
