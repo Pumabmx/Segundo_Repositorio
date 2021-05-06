@@ -6,7 +6,6 @@
 * 3. Tercero
 * 4. Cuarto
 * 5. Quinto
-* $. Aqui esta el error.
 * 6. Sexto
 * 7. Septimo // Error2
     
